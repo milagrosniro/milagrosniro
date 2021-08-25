@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/milagrosniro](https://github.com/milagrosniro)
 
-- 💬 Ask me about **react, redux, javascript, express, node.js**
+- 💬 Ask me about **react, redux, javascript, express, node.js, postgresSQL, sequelize, HTML, CSS**
 
 - 📫 How to reach me **niromilagros@gmail.com**
 
@@ -43,9 +43,7 @@ const aboutMe = {
 }
 ```
 
-### You can find me 📣:
-👉 Linkedin: www.linkedin.com/in/maría-milagros-niro-dev
-👉 Email: niromilagros@gmail.com
+
 
 [![milagrosniro's GitHub stats](https://github-readme-stats.vercel.app/api?username=milagrosniro)](https://github.com/anuraghazra/github-readme-stats)
 
