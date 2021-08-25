@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### About me in code:
+
 ```js
 const aboutMe = {
   pronouns: "she" | "her",
@@ -19,7 +21,7 @@ const aboutMe = {
 }
 ```
 
-You can find me 📣:
+### You can find me 📣:
 👉 Linkedin: www.linkedin.com/in/maría-milagros-niro-dev
 👉 Email: niromilagros@gmail.com
 
