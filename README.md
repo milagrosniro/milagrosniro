@@ -20,8 +20,8 @@ const aboutMe = {
 ```
 
 You can find me 📣:
-👉 [Linkedin](www.linkedin.com/in/maría-milagros-niro-dev)
-👉 [Email](niromilagros@gmail.com)
+👉 Linkedin: www.linkedin.com/in/maría-milagros-niro-dev
+👉 Email: niromilagros@gmail.com
 
 
 <!--
