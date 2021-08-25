@@ -1,5 +1,29 @@
 ### Hi there 👋
 
+```js
+const aboutMe = {
+  pronouns: "she" | "her",
+  code: [Javascript,  HTML, CSS],
+  technologies: {
+      frontEnd: {
+         js: ["React", "Redux"],
+      },
+      backEnd: {
+         js: ["Node", "Express", "Sequelize"],
+         
+      },
+      databases: ["PostgresSQL"],
+      
+   }
+ 
+}
+```
+
+You can find me 📣:
+👉 [Linkedin](www.linkedin.com/in/maría-milagros-niro-dev)
+👉 [Email](niromilagros@gmail.com)
+
+
 <!--
 **milagrosniro/milagrosniro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
